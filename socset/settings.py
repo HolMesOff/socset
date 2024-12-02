@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-eag2(n5o!i2oz$p)+!lw%2dj$vi$&3%_!@0bsf1rf=o$9gbb@-
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['socset.onrender.com']
+ALLOWED_HOSTS = ['*']
 
 AUTH_USER_MODEL = 'socsetapp.User'
 
